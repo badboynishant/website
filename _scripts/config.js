@@ -1,7 +1,7 @@
 /**
  * _scripts/config.js
  * Loads site configuration for api endpoint
- *
+ *Amazing project
  * @exports {Promise} default - a promise of the site configuration
  */
 
